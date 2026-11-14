@@ -6,7 +6,7 @@
 <!-- Dòng chữ chạy giới thiệu bản thân -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Quality+Assurance+%26+Automation+Tester;Backend+%26+Web+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Backend+%26+Web+Developer" alt="Typing SVG" />
   </a>
 </div>
 
@@ -17,7 +17,7 @@
 - 🎓 Sinh viên năm cuối chuyên ngành **Kỹ thuật Phần mềm (Software Engineering)**.
 - 💻 Đam mê xây dựng các ứng dụng Web/Backend ổn định và lập trình Mobile.
 - 🌱 Hiện đang tập trung vào: **JavaScript, Html, Css, AndroidStudio, ASP.NET MVC, và Php**.
-- 📫 Liên hệ với mình qua Email: **[your-emai@gmail.com](mailto:zanthu556@gmail.com)**
+- 📫 Liên hệ với mình qua Email: **[zanthu556@gmail.com](mailto:zanthu556@gmail.com)**
 
 ---
 
