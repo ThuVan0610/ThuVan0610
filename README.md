@@ -15,8 +15,8 @@
 ### 🌸 Về mình (About Me)
 
 - 🎓 Sinh viên năm cuối chuyên ngành **Kỹ thuật Phần mềm (Software Engineering)**.
-- 💻 Đam mê xây dựng các ứng dụng Web/Backend ổn định và tối ưu hóa quy trình kiểm thử tự động (Automation Testing).
-- 🌱 Hiện đang tập trung vào: **Playwright, Jest, CI/CD, ASP.NET MVC** và **Node.js**.
+- 💻 Đam mê xây dựng các ứng dụng Web/Backend ổn định và lập trình Mobile.
+- 🌱 Hiện đang tập trung vào: **JavaScript, Html, Css, AndroidStudio, ASP.NET MVC, và Php**.
 - 📫 Liên hệ với mình qua Email: **[your-emai@gmail.com](mailto:zanthu556@gmail.com)**
 
 ---
